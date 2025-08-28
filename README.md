@@ -27,8 +27,11 @@ This project is a structured practice environment for learning fundamental JavaS
 
 project-folder/
 │
+
 ├── index.html # Main HTML structure
+
 ├── script.js # JavaScript functionality
+
 └── style.css # Styling for layout and elements
 
 
